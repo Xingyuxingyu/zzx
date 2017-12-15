@@ -1,1 +1,1 @@
-This is zzx's first repository.
+This is Alice's first repository.
